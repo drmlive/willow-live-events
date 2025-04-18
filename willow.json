@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:03:32 PM 18-04-2025",
+    "last update time": "12:03:37 AM 19-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.793ecea8-6489-4c8f-82ee-ea302509490a",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 34th Match - Royal Challengers Bengaluru vs Punjab Kings",
             "contentType": "event",
             "startTime": "2025-04-18T18:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.793ecea8-6489-4c8f-82ee-ea302509490a/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.793ecea8-6489-4c8f-82ee-ea302509490a/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
