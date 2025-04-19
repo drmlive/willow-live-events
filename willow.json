@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:06:15 PM 19-04-2025",
+    "last update time": "12:06:21 AM 20-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.b06d0346-9bdf-45b3-b2b1-839a26eb9fce",
@@ -113,7 +113,7 @@
             "name": "North America Cup 2025 - 1st Match - Cayman Islands vs United States of America",
             "contentType": "event",
             "startTime": "2025-04-19T20:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ea351ff-abb2-4fa4-9900-86a883ad8bb7/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ea351ff-abb2-4fa4-9900-86a883ad8bb7/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -164,9 +164,9 @@
             "title": "North America Cup 2025 - 2nd Match - Bermuda vs Canada",
             "name": "North America Cup 2025 - 2nd Match - Bermuda vs Canada",
             "contentType": "event",
-            "startTime": "2025-04-20T00:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c66307d5-e76a-4c4c-8d95-36a9e713dcd3/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-19T23:59:15.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c66307d5-e76a-4c4c-8d95-36a9e713dcd3/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
