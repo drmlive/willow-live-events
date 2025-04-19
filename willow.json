@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:05:53 PM 19-04-2025",
+    "last update time": "09:06:01 PM 19-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.652d57c1-09df-4226-9114-05e2fd58ff17",
-            "title": "Indian Premier League 2025 - 35th Match - Gujarat Titans vs Delhi Capitals",
-            "name": "Indian Premier League 2025 - 35th Match - Gujarat Titans vs Delhi Capitals",
-            "contentType": "event",
-            "startTime": "2025-04-19T14:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.652d57c1-09df-4226-9114-05e2fd58ff17/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a158aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/xli8lfop8h/out/v1/bc39a1fb1df5478ea60cfd6c69af2c43/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMXANBEEZ3B24U.bed3ea7a98654b03ba5dae84f31b3b41.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xli8lfop8h/out/v1/bc39a1fb1df5478ea60cfd6c69af2c43/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xli8lfop8h/out/v1/bc39a1fb1df5478ea60cfd6c69af2c43/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a20aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/3v97nvxbu8/out/v1/4d85b46d0eb147158af9f7491430619a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMXANBEEZ3B24U.3f5fefe1c9414b7fa12d16c2f414d011.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3v97nvxbu8/out/v1/4d85b46d0eb147158af9f7491430619a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3v97nvxbu8/out/v1/4d85b46d0eb147158af9f7491430619a/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "6e3fb7256b2ef0f277da98d880257230:3cf28e133be3ee653e5cf60dba609e09"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.b06d0346-9bdf-45b3-b2b1-839a26eb9fce",
             "title": "Indian Premier League 2025 - 36th Match - Rajasthan Royals vs Lucknow Super Giants",
@@ -164,9 +112,9 @@
             "title": "North America Cup 2025 - 1st Match - Cayman Islands vs United States of America",
             "name": "North America Cup 2025 - 1st Match - Cayman Islands vs United States of America",
             "contentType": "event",
-            "startTime": "2025-04-19T20:25:00.000Z",
+            "startTime": "2025-04-19T20:25:05.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ea351ff-abb2-4fa4-9900-86a883ad8bb7/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
