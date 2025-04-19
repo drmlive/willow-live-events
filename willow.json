@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:06:28 AM 20-04-2025",
+    "last update time": "02:06:35 AM 20-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.ac00bbdd-e507-4035-b3c1-92fa35565bcb",
-            "title": "Pakistan Super League 2025 - 9th Match - Peshawar Zalmi vs Multan Sultans",
-            "name": "Pakistan Super League 2025 - 9th Match - Peshawar Zalmi vs Multan Sultans",
-            "contentType": "event",
-            "startTime": "2025-04-19T19:53:35.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac00bbdd-e507-4035-b3c1-92fa35565bcb/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMEOYXUL56EILCU.fa2bf35b53544298be2ac7e4c98d0548.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfmlkovsrf/out/v1/d6d79ee2d956470390a7073fa0ec7c16/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a14aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pfmlkovsrf/out/v1/d6d79ee2d956470390a7073fa0ec7c16/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pfmlkovsrf/out/v1/d6d79ee2d956470390a7073fa0ec7c16/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMEOYXUL56EILCU.a97d9b3898e54b36896196f3b72e17c9.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cdwyagl0gx/out/v1/f62f4974413c4992aa812c4e5075b330/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a52aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cdwyagl0gx/out/v1/f62f4974413c4992aa812c4e5075b330/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cdwyagl0gx/out/v1/f62f4974413c4992aa812c4e5075b330/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "32ce7e73994d85bcd18d15684f83e268:a0ae977921636b8fe7bbeea3275c89bd"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.c66307d5-e76a-4c4c-8d95-36a9e713dcd3",
             "title": "North America Cup 2025 - 2nd Match - Bermuda vs Canada",
