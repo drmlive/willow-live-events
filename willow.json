@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:26 PM 19-04-2025",
+    "last update time": "05:05:33 PM 19-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.652d57c1-09df-4226-9114-05e2fd58ff17",
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "6e3fb7256b2ef0f277da98d880257230:3cf28e133be3ee653e5cf60dba609e09"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.b06d0346-9bdf-45b3-b2b1-839a26eb9fce",
+            "title": "Indian Premier League 2025 - 36th Match - Rajasthan Royals vs Lucknow Super Giants",
+            "name": "Indian Premier League 2025 - 36th Match - Rajasthan Royals vs Lucknow Super Giants",
+            "contentType": "event",
+            "startTime": "2025-04-19T19:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b06d0346-9bdf-45b3-b2b1-839a26eb9fce/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/atkfv7ofht/out/v1/ce61cd1fa4914f96b636f280e97555b9/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMJH2TXLWFMFZ2N.8f628c0acd594986bc4c6e08af48470d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/atkfv7ofht/out/v1/ce61cd1fa4914f96b636f280e97555b9/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a151aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/atkfv7ofht/out/v1/ce61cd1fa4914f96b636f280e97555b9/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tbloioh8ln/out/v1/d9f189bb24ab49979e200fc8741ae36e/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMJH2TXLWFMFZ2N.2343cdab7699496cbc92e6bb3e6263f1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tbloioh8ln/out/v1/d9f189bb24ab49979e200fc8741ae36e/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a104aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/tbloioh8ln/out/v1/d9f189bb24ab49979e200fc8741ae36e/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "3737d4ac5ecfbd5c61ff76c0a7ff9e1c:96cdbb20b695a7ea5bb6ef397a5115cb"
                 ]
             }
         }
