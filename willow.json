@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:08:21 PM 20-04-2025",
+    "last update time": "06:08:28 PM 20-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.30a0b6b7-e715-40b5-ae5d-86c7cf70e49e",
@@ -104,6 +104,110 @@
                 ],
                 "keys": [
                     "185639528ebdc15a01bd23b7620110b7:28b94440143e78cf2190c409cf822c44"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.1e32c230-41fc-4ac2-b04d-80b4d74b39cc",
+            "title": "Pakistan Super League 2025 - 10th Match - Karachi Kings vs Islamabad United",
+            "name": "Pakistan Super League 2025 - 10th Match - Karachi Kings vs Islamabad United",
+            "contentType": "event",
+            "startTime": "2025-04-20T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e32c230-41fc-4ac2-b04d-80b4d74b39cc/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMJJO3J23MWFZN4.38cd1091a19f4897996dae684c560793.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a168aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMJJO3J23MWFZN4.6a637b8ab45146ee9471bdcdacc86a6f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a142aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "aff2c38b9d7024357128c27773a6afcd:109f219e779136533a910ecb13a45d35"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.834f4d6d-c587-4c3c-a6cf-487234151428",
+            "title": "North America Cup 2025 - 3rd Match - United States of America vs Bahamas",
+            "name": "North America Cup 2025 - 3rd Match - United States of America vs Bahamas",
+            "contentType": "event",
+            "startTime": "2025-04-20T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.834f4d6d-c587-4c3c-a6cf-487234151428/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9xorvghwbz/out/v1/5eaafdb2ee9f490bbb9d2c866aeff9af/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMHMASV7KWNO6JJ.43e11373e32c483da4caaa24a01d4f1c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9xorvghwbz/out/v1/5eaafdb2ee9f490bbb9d2c866aeff9af/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a57aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/9xorvghwbz/out/v1/5eaafdb2ee9f490bbb9d2c866aeff9af/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg0adby4fe/out/v1/daf2c626af60423e98f5ba2d13461996/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMHMASV7KWNO6JJ.ed2f077fc2574fa980dbf7a1fef43681.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg0adby4fe/out/v1/daf2c626af60423e98f5ba2d13461996/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a64aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sg0adby4fe/out/v1/daf2c626af60423e98f5ba2d13461996/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "bb07a0b7148f13e0670c8bb6d44de948:e362446ff453b974f8728c75013b2ee0"
                 ]
             }
         }
