@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:09:15 AM 21-04-2025",
+    "last update time": "02:09:21 AM 21-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.1e32c230-41fc-4ac2-b04d-80b4d74b39cc",
-            "title": "Pakistan Super League 2025 - 10th Match - Karachi Kings vs Islamabad United",
-            "name": "Pakistan Super League 2025 - 10th Match - Karachi Kings vs Islamabad United",
-            "contentType": "event",
-            "startTime": "2025-04-20T19:53:55.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e32c230-41fc-4ac2-b04d-80b4d74b39cc/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMJJO3J23MWFZN4.38cd1091a19f4897996dae684c560793.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a168aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/u9qecz85gl/out/v1/d0c35da4e42a40d18e4460fa7074df0f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMJJO3J23MWFZN4.6a637b8ab45146ee9471bdcdacc86a6f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a142aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ec6nvzl29h/out/v1/03c40d9c659848abaac3780accf7b4bc/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "aff2c38b9d7024357128c27773a6afcd:109f219e779136533a910ecb13a45d35"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.3d1cb801-397a-491b-9853-cf7c960f7b6a",
             "title": "North America Cup 2025 - 4th Match - Bermuda vs Cayman Islands",
