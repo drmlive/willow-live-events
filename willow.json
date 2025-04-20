@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:08:48 PM 20-04-2025",
+    "last update time": "10:08:54 PM 20-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.5d738a43-a8c4-41f7-bbe8-c909122ab437",
@@ -156,6 +156,58 @@
                 ],
                 "keys": [
                     "bb07a0b7148f13e0670c8bb6d44de948:e362446ff453b974f8728c75013b2ee0"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.3d1cb801-397a-491b-9853-cf7c960f7b6a",
+            "title": "North America Cup 2025 - 4th Match - Bermuda vs Cayman Islands",
+            "name": "North America Cup 2025 - 4th Match - Bermuda vs Cayman Islands",
+            "contentType": "event",
+            "startTime": "2025-04-21T00:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d1cb801-397a-491b-9853-cf7c960f7b6a/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wwag4pxg2y/out/v1/498d8c3d1dd74eeeb77a5a734291e29a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a177aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/wwag4pxg2y/out/v1/498d8c3d1dd74eeeb77a5a734291e29a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMNVQKBY3LKQGN2.fbdfb39c29b14fe7b2662872fde46042.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wwag4pxg2y/out/v1/498d8c3d1dd74eeeb77a5a734291e29a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2k6ssunrae/out/v1/ba96f28632cc4b4d8526f237418d7a0a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a23aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2k6ssunrae/out/v1/ba96f28632cc4b4d8526f237418d7a0a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMNVQKBY3LKQGN2.662e8c9ee71e4e08bea258c8d6a834c1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2k6ssunrae/out/v1/ba96f28632cc4b4d8526f237418d7a0a/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "8c58e1d4204897db8c271e15fc8ed03a:c25038e8bba30db39ebabd8cb767c5d3"
                 ]
             }
         }
