@@ -1,15 +1,15 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:10:48 PM 21-04-2025",
+    "last update time": "06:10:52 PM 21-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a489e92b-72c0-4bfd-9dd1-893f666f335f",
             "title": "Indian Premier League 2025 - 39th Match - Kolkata Knight Riders vs Gujarat Titans",
             "name": "Indian Premier League 2025 - 39th Match - Kolkata Knight Riders vs Gujarat Titans",
             "contentType": "event",
-            "startTime": "2025-04-21T19:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a489e92b-72c0-4bfd-9dd1-893f666f335f/8/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "startTime": "2025-04-21T18:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a489e92b-72c0-4bfd-9dd1-893f666f335f/9/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "upcoming",
             "playback_data": {
                 "urls": [
@@ -52,6 +52,110 @@
                 ],
                 "keys": [
                     "a3de05363446dcbec080fc1773b78856:09a7ebaec5764b142304084cfd967982"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.0722b21d-5f59-4d3f-a2ab-2d5360cdb7d9",
+            "title": "Pakistan Super League 2025 - 11th Match - Karachi Kings vs Peshawar Zalmi",
+            "name": "Pakistan Super League 2025 - 11th Match - Karachi Kings vs Peshawar Zalmi",
+            "contentType": "event",
+            "startTime": "2025-04-21T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0722b21d-5f59-4d3f-a2ab-2d5360cdb7d9/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a97aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ugvyoxvisu/out/v1/1a99cfd67785442c81ca95b223379d47/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvyoxvisu/out/v1/1a99cfd67785442c81ca95b223379d47/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMG4HCY6J26TQMU.167c92fb17864a16bd610af4fe7b5b61.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvyoxvisu/out/v1/1a99cfd67785442c81ca95b223379d47/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a39aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/vu5zxzsted/out/v1/bff40b022c2743b8887dae81b69a159d/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vu5zxzsted/out/v1/bff40b022c2743b8887dae81b69a159d/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMG4HCY6J26TQMU.cc9f5ff9a4ae4f1fb7d75f3ae715c949.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vu5zxzsted/out/v1/bff40b022c2743b8887dae81b69a159d/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "4e9db84965547360549e6020ddd761d5:697aebbd547e4e1fdb4c234e656bdd22"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.825ddeab-fc99-47e7-bcc5-20b584301839",
+            "title": "North America Cup 2025 - 5th Match - Bahamas vs Canada",
+            "name": "North America Cup 2025 - 5th Match - Bahamas vs Canada",
+            "contentType": "event",
+            "startTime": "2025-04-21T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.825ddeab-fc99-47e7-bcc5-20b584301839/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a37aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/eyozite0ya/out/v1/51d446e220ca47c48990c3fb33380f2f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eyozite0ya/out/v1/51d446e220ca47c48990c3fb33380f2f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMDTCDJHBSJ6QJZ.92a9b255f2314d45af160c0a44d993f8.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eyozite0ya/out/v1/51d446e220ca47c48990c3fb33380f2f/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a164aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/l1a1osygll/out/v1/84093fb17357450c84ef2a9ab0d72f70/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1a1osygll/out/v1/84093fb17357450c84ef2a9ab0d72f70/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMDTCDJHBSJ6QJZ.2777a387e54f4d6aab68d2ba49acb172.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1a1osygll/out/v1/84093fb17357450c84ef2a9ab0d72f70/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "7e906f06b734febcd32ae51d7f68c39d:f82e44bc5af4e65946a3a222e968a94a"
                 ]
             }
         }
