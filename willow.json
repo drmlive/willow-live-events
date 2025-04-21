@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:44 AM 22-04-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.80fa3228-52c3-40aa-8888-301a3b866122",
-            "title": "North America Cup 2025 - 6th Match - United States of America vs Bermuda",
-            "name": "North America Cup 2025 - 6th Match - United States of America vs Bermuda",
-            "contentType": "event",
-            "startTime": "2025-04-22T00:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80fa3228-52c3-40aa-8888-301a3b866122/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yrjtcgqkau/out/v1/7eb302b4391342bbaf993099df1915b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a147aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/yrjtcgqkau/out/v1/7eb302b4391342bbaf993099df1915b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMHWN3NIFCBJOWF.f97dfa723b9d431ebbad5f2853a2577f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yrjtcgqkau/out/v1/7eb302b4391342bbaf993099df1915b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aimhme14jk/out/v1/b65f1788db224c00bc4eaa604ba292d2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a131aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/aimhme14jk/out/v1/b65f1788db224c00bc4eaa604ba292d2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMHWN3NIFCBJOWF.7d1a8c7c26554a7a8ff1e59f67df2473.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aimhme14jk/out/v1/b65f1788db224c00bc4eaa604ba292d2/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "4a3f42e17981690765965cd4302ed41a:e3816fb2daecad8d5dbc477907a29f57"
-                ]
-            }
-        }
-    ]
+    "last update time": "04:11:49 AM 22-04-2025",
+    "matches": []
 }
