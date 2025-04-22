@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:13:20 PM 22-04-2025",
+    "last update time": "08:13:27 PM 22-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c",
@@ -60,9 +60,9 @@
             "title": "Pakistan Super League 2025 - 12th Match - Multan Sultans vs Lahore Qalandars",
             "name": "Pakistan Super League 2025 - 12th Match - Multan Sultans vs Lahore Qalandars",
             "contentType": "event",
-            "startTime": "2025-04-22T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.292c62c6-077e-4d60-9460-6a0f1d22b151/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-22T19:49:59.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.292c62c6-077e-4d60-9460-6a0f1d22b151/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
