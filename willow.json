@@ -1,16 +1,16 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:13:13 PM 22-04-2025",
+    "last update time": "07:13:20 PM 22-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c",
             "title": "Indian Premier League 2025 - 40th Match - Lucknow Super Giants vs Delhi Capitals",
             "name": "Indian Premier League 2025 - 40th Match - Lucknow Super Giants vs Delhi Capitals",
             "contentType": "event",
-            "startTime": "2025-04-22T18:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c/8/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-22T18:24:59.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c/9/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
