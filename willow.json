@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:13:57 AM 23-04-2025",
+    "last update time": "01:14:04 AM 23-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c",
-            "title": "Indian Premier League 2025 - 40th Match - Lucknow Super Giants vs Delhi Capitals",
-            "name": "Indian Premier League 2025 - 40th Match - Lucknow Super Giants vs Delhi Capitals",
-            "contentType": "event",
-            "startTime": "2025-04-22T18:24:59.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d963edc5-e25b-4274-8bad-895046e9160c/9/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/byikqnxymt/out/v1/179c00890538410fafac050c8abfdb92/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMJUSGJU5B2VY7K.fd725598604c4e129ad3ce32f8bd9832.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/byikqnxymt/out/v1/179c00890538410fafac050c8abfdb92/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a46aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/byikqnxymt/out/v1/179c00890538410fafac050c8abfdb92/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jzro94wckw/out/v1/b54764a219094c24ad5cac4601e08d69/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMJUSGJU5B2VY7K.3e11b49199e74d9d983fc7e55dc1790c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jzro94wckw/out/v1/b54764a219094c24ad5cac4601e08d69/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a143aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jzro94wckw/out/v1/b54764a219094c24ad5cac4601e08d69/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "b8b1829e8e602f6ce54993867dff2006:da4fdc24694c8e5b430a4687d8676c47"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.292c62c6-077e-4d60-9460-6a0f1d22b151",
             "title": "Pakistan Super League 2025 - 12th Match - Multan Sultans vs Lahore Qalandars",
