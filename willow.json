@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:16:12 PM 23-04-2025",
+    "last update time": "09:16:20 PM 23-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.8024fcb0-f1c1-483b-bf6b-195d0214e2de",
@@ -112,9 +112,9 @@
             "title": "North America Cup 2025 - 7th Match - Cayman Islands vs Canada",
             "name": "North America Cup 2025 - 7th Match - Cayman Islands vs Canada",
             "contentType": "event",
-            "startTime": "2025-04-23T20:25:00.000Z",
+            "startTime": "2025-04-23T20:25:08.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98f3d03b-3bea-4593-84a2-2fae071fc67d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
