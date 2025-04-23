@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:41 AM 24-04-2025",
+    "last update time": "01:16:48 AM 24-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.8024fcb0-f1c1-483b-bf6b-195d0214e2de",
-            "title": "Indian Premier League 2025 - 41st Match - Sunrisers Hyderabad vs Mumbai Indians",
-            "name": "Indian Premier League 2025 - 41st Match - Sunrisers Hyderabad vs Mumbai Indians",
-            "contentType": "event",
-            "startTime": "2025-04-23T18:24:59.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8024fcb0-f1c1-483b-bf6b-195d0214e2de/5/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMI52CNLWVWKEBQ.59b4cdc8b3a14c3483772e213ed89665.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/djvgto5f0q/out/v1/964af2c4c1ac4f67b711588f6bcf8c00/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/djvgto5f0q/out/v1/964af2c4c1ac4f67b711588f6bcf8c00/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a180aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/djvgto5f0q/out/v1/964af2c4c1ac4f67b711588f6bcf8c00/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMI52CNLWVWKEBQ.2b0abe9f75a2454cbf6b2a1cd27a3d67.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v4zucyg5ox/out/v1/0b04f94b39e54bf8a0cef6fe10a3a4b4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v4zucyg5ox/out/v1/0b04f94b39e54bf8a0cef6fe10a3a4b4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a176aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/v4zucyg5ox/out/v1/0b04f94b39e54bf8a0cef6fe10a3a4b4/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "751e5aa7366b87935889e5924763219a:16d95dc6966f5cd16e7c48daadce87b9"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.facdd1c2-8f15-432d-82f6-82107909d3eb",
             "title": "Pakistan Super League 2025 - 13th Match - Multan Sultans vs Islamabad United",
@@ -112,9 +60,9 @@
             "title": "North America Cup 2025 - 8th Match - Bermuda vs Bahamas",
             "name": "North America Cup 2025 - 8th Match - Bermuda vs Bahamas",
             "contentType": "event",
-            "startTime": "2025-04-24T00:25:00.000Z",
+            "startTime": "2025-04-24T00:25:02.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.242ccd73-db5a-47a3-b470-9c408240c231/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
