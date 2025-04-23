@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:16:55 AM 24-04-2025",
+    "last update time": "03:17:03 AM 24-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.242ccd73-db5a-47a3-b470-9c408240c231",
@@ -9,7 +9,7 @@
             "name": "North America Cup 2025 - 8th Match - Bermuda vs Bahamas",
             "contentType": "event",
             "startTime": "2025-04-24T00:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.242ccd73-db5a-47a3-b470-9c408240c231/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.242ccd73-db5a-47a3-b470-9c408240c231/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
