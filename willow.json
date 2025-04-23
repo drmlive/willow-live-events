@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:16:33 PM 23-04-2025",
+    "last update time": "12:16:41 AM 24-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.8024fcb0-f1c1-483b-bf6b-195d0214e2de",
@@ -104,58 +104,6 @@
                 ],
                 "keys": [
                     "2a3f9a294eb9079679a72a2ea6b2f0fa:23a42590dfebbd5fe67a5b9d3a00218f"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.98f3d03b-3bea-4593-84a2-2fae071fc67d",
-            "title": "North America Cup 2025 - 7th Match - Cayman Islands vs Canada",
-            "name": "North America Cup 2025 - 7th Match - Cayman Islands vs Canada",
-            "contentType": "event",
-            "startTime": "2025-04-23T20:25:08.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.98f3d03b-3bea-4593-84a2-2fae071fc67d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a34aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/w9jpe57u8c/out/v1/de4183712cd44f80bb9a4f572fb13570/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNWOFCQLCARGLR.d63af5fc8e9c453dae2cb08ae0c11d6d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w9jpe57u8c/out/v1/de4183712cd44f80bb9a4f572fb13570/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w9jpe57u8c/out/v1/de4183712cd44f80bb9a4f572fb13570/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a31aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/uyt7ylvptb/out/v1/13da26efc6a041e28f63d6fd6fb40dc2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNWOFCQLCARGLR.b9da105220e3471dbf8984c16597a411.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uyt7ylvptb/out/v1/13da26efc6a041e28f63d6fd6fb40dc2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uyt7ylvptb/out/v1/13da26efc6a041e28f63d6fd6fb40dc2/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "6a872e8594d34497998d357213903757:2d1dae74c003d82682b80787f6a5b05d"
                 ]
             }
         },
