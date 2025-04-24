@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:18:56 PM 24-04-2025",
+    "last update time": "08:19:02 PM 24-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.0008dcca-718b-4193-9497-1464f9387e1f",
@@ -60,9 +60,9 @@
             "title": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
             "name": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
             "contentType": "event",
-            "startTime": "2025-04-24T20:00:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-24T19:55:32.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
