@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:19:36 AM 25-04-2025",
+    "last update time": "02:19:43 AM 25-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6",
-            "title": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
-            "name": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
-            "contentType": "event",
-            "startTime": "2025-04-24T19:55:32.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMFBKUPPL6OULCM.55f21ff9552b4abbb77d72890d354d3c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r5lpman8sh/out/v1/70f928cf6c6a41a2b3f34227fad8fed6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a13aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/r5lpman8sh/out/v1/70f928cf6c6a41a2b3f34227fad8fed6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r5lpman8sh/out/v1/70f928cf6c6a41a2b3f34227fad8fed6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMFBKUPPL6OULCM.6df7f155cf934954b332548229e510ca.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wm5eeqkpgi/out/v1/a29d7dfa78cf4c92b961451cf50cb7e5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a171aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/wm5eeqkpgi/out/v1/a29d7dfa78cf4c92b961451cf50cb7e5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wm5eeqkpgi/out/v1/a29d7dfa78cf4c92b961451cf50cb7e5/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "c1b763956e3116b7d3ed065d35132842:b663cd5f70ecc9e92c9ede60113aa4f6"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.faa86490-5bd9-4112-8f2f-fd909b0ac92d",
             "title": "North America Cup 2025 - 10th Match - Canada vs United States of America",
