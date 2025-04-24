@@ -1,67 +1,15 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:19:29 AM 25-04-2025",
+    "last update time": "01:19:36 AM 25-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.0008dcca-718b-4193-9497-1464f9387e1f",
-            "title": "Indian Premier League 2025 - 42nd Match - Royal Challengers Bengaluru vs Rajasthan Royals",
-            "name": "Indian Premier League 2025 - 42nd Match - Royal Challengers Bengaluru vs Rajasthan Royals",
-            "contentType": "event",
-            "startTime": "2025-04-24T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0008dcca-718b-4193-9497-1464f9387e1f/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMDIC234DPT45L4.eb4493c6038247efbb8a188b5ef7cebf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhvzkplfil/out/v1/105bf34db1804a78acd07500f0e6bac5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhvzkplfil/out/v1/105bf34db1804a78acd07500f0e6bac5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a180aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/uhvzkplfil/out/v1/105bf34db1804a78acd07500f0e6bac5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMDIC234DPT45L4.20b8611c6f5e4ca3932bc25085e17b95.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ikfeyhspt0/out/v1/d53c5328ca0b4703817199f4e79f3861/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ikfeyhspt0/out/v1/d53c5328ca0b4703817199f4e79f3861/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a201aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ikfeyhspt0/out/v1/d53c5328ca0b4703817199f4e79f3861/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "6bcd46f5a1f0d9b17498123984141791:4a4e32741ccd42224f1c004d5799e2f7"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6",
             "title": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
             "name": "Pakistan Super League 2025 - 14th Match - Lahore Qalandars vs Peshawar Zalmi",
             "contentType": "event",
             "startTime": "2025-04-24T19:55:32.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5369214c-f2eb-41d9-8aa6-cb7b8d856da6/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -108,65 +56,13 @@
             }
         },
         {
-            "titleId": "amzn1.dv.gti.3aef5916-51db-4b73-a6a3-d9d5ec281500",
-            "title": "North America Cup 2025 - 9th Match - Bahamas vs Cayman Islands",
-            "name": "North America Cup 2025 - 9th Match - Bahamas vs Cayman Islands",
-            "contentType": "event",
-            "startTime": "2025-04-24T20:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3aef5916-51db-4b73-a6a3-d9d5ec281500/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMGHYO6OPVZGBC5.51dbdb261fe6463db65dca89887c3234.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e0dbos5dh8/out/v1/edf3503a27214189b5f346dc37508d6f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e0dbos5dh8/out/v1/edf3503a27214189b5f346dc37508d6f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a164aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/e0dbos5dh8/out/v1/edf3503a27214189b5f346dc37508d6f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMGHYO6OPVZGBC5.ce780a2d08cc4ea78893d5eb87f03c5c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/j29wugn2lz/out/v1/b26ae75ebefe49b8938da65dbbeb4a54/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/j29wugn2lz/out/v1/b26ae75ebefe49b8938da65dbbeb4a54/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a210aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/j29wugn2lz/out/v1/b26ae75ebefe49b8938da65dbbeb4a54/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "3cdf8567b0ac0d18f1ce0d8cc36ea61a:e65b406bb6b0fa05ef16b90027e31890"
-                ]
-            }
-        },
-        {
             "titleId": "amzn1.dv.gti.faa86490-5bd9-4112-8f2f-fd909b0ac92d",
             "title": "North America Cup 2025 - 10th Match - Canada vs United States of America",
             "name": "North America Cup 2025 - 10th Match - Canada vs United States of America",
             "contentType": "event",
-            "startTime": "2025-04-25T00:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.faa86490-5bd9-4112-8f2f-fd909b0ac92d/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-25T00:25:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.faa86490-5bd9-4112-8f2f-fd909b0ac92d/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
