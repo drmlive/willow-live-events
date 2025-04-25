@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:21:34 PM 25-04-2025",
+    "last update time": "09:21:39 PM 25-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7",
@@ -112,9 +112,9 @@
             "title": "Zimbabwe Women tour of USA 2025 - 1st T20I - United States of America Women vs Zimbabwe Women",
             "name": "Zimbabwe Women tour of USA 2025 - 1st T20I - United States of America Women vs Zimbabwe Women",
             "contentType": "event",
-            "startTime": "2025-04-25T21:10:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddfea649-4bc0-48f4-83e8-799c0fca79f1/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-25T20:36:35.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddfea649-4bc0-48f4-83e8-799c0fca79f1/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
