@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:54 AM 26-04-2025",
+    "last update time": "01:22:00 AM 26-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7",
-            "title": "Indian Premier League 2025 - 43rd Match - Chennai Super Kings vs Sunrisers Hyderabad",
-            "name": "Indian Premier League 2025 - 43rd Match - Chennai Super Kings vs Sunrisers Hyderabad",
-            "contentType": "event",
-            "startTime": "2025-04-25T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMKUNR4NSAI3Z5C.177ae7e4929e43c9b330a44ceaa17103.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a59aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMKUNR4NSAI3Z5C.f9f77e93e33b44f5a518a0961f074037.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a86aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2f1zxwqnsq/out/v1/478335bab9c64fa590a3cdcd3b99e2b5/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "34d1828d32b613d0be2584f2edc8f9e8:0f99b21c26ed7cbcd650e8e407e6fb07"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.4287dfd8-3846-4d99-8b20-2efddfe459ba",
             "title": "Pakistan Super League 2025 - 15th Match - Quetta Gladiators vs Karachi Kings",
@@ -104,58 +52,6 @@
                 ],
                 "keys": [
                     "68fd2515876289ce746ab58defff8077:20f80e9a6ff94ea2686cfdc1c150dbca"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.ddfea649-4bc0-48f4-83e8-799c0fca79f1",
-            "title": "Zimbabwe Women tour of USA 2025 - 1st T20I - United States of America Women vs Zimbabwe Women",
-            "name": "Zimbabwe Women tour of USA 2025 - 1st T20I - United States of America Women vs Zimbabwe Women",
-            "contentType": "event",
-            "startTime": "2025-04-25T20:36:35.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddfea649-4bc0-48f4-83e8-799c0fca79f1/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMELU6RCTAV45ET.e3cfce84ad5d4a469bc74959398d73e9.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a143aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMELU6RCTAV45ET.06cb652a1e6f4cb7bc6c7714671a1456.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a130aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ajkgxmba3x/out/v1/0fc183385c3b484b9657afb19fb04a6b/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "37267ed7927c355070554f6ab5f5af8d:090e4db6576fcf49857fb042a14d7f51"
                 ]
             }
         }
