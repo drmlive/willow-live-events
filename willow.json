@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:22:00 AM 26-04-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.4287dfd8-3846-4d99-8b20-2efddfe459ba",
-            "title": "Pakistan Super League 2025 - 15th Match - Quetta Gladiators vs Karachi Kings",
-            "name": "Pakistan Super League 2025 - 15th Match - Quetta Gladiators vs Karachi Kings",
-            "contentType": "event",
-            "startTime": "2025-04-25T19:55:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4287dfd8-3846-4d99-8b20-2efddfe459ba/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMDGEO7557K7TYZ.b8f76a4f8eb841c599dd9550418e23e5.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a174aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMDGEO7557K7TYZ.ed2386031ccb43f8bce3d192128f8c72.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a108aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/d6yzvyllbi/out/v1/c4b9b4a04f354c659cc5f43df23afc09/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "68fd2515876289ce746ab58defff8077:20f80e9a6ff94ea2686cfdc1c150dbca"
-                ]
-            }
-        }
-    ]
+    "last update time": "02:22:05 AM 26-04-2025",
+    "matches": []
 }
