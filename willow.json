@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:21:27 PM 25-04-2025",
+    "last update time": "08:21:34 PM 25-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 43rd Match - Chennai Super Kings vs Sunrisers Hyderabad",
             "contentType": "event",
             "startTime": "2025-04-25T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f3df4ee-04af-445e-9d2b-4dc4ecbf99e7/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -60,9 +60,9 @@
             "title": "Pakistan Super League 2025 - 15th Match - Quetta Gladiators vs Karachi Kings",
             "name": "Pakistan Super League 2025 - 15th Match - Quetta Gladiators vs Karachi Kings",
             "contentType": "event",
-            "startTime": "2025-04-25T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4287dfd8-3846-4d99-8b20-2efddfe459ba/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-25T19:55:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4287dfd8-3846-4d99-8b20-2efddfe459ba/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
