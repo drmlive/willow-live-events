@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:19 AM 27-04-2025",
+    "last update time": "01:24:25 AM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.7542103f-6951-4252-a69c-493999dee8e2",
@@ -112,9 +112,9 @@
             "title": "North America Cup 2025 - 2nd Semi-Final - United States Of America vs Bermuda",
             "name": "North America Cup 2025 - 2nd Semi-Final - United States Of America vs Bermuda",
             "contentType": "event",
-            "startTime": "2025-04-27T00:25:00.000Z",
+            "startTime": "2025-04-27T00:25:02.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72d59906-9aab-4bb0-9af5-7673641cd666/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
