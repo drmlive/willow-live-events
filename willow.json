@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:23:48 PM 26-04-2025",
+    "last update time": "08:23:54 PM 26-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.7542103f-6951-4252-a69c-493999dee8e2",
@@ -60,9 +60,9 @@
             "title": "Pakistan Super League 2025 - 16th Match - Lahore Qalandars vs Multan Sultans",
             "name": "Pakistan Super League 2025 - 16th Match - Lahore Qalandars vs Multan Sultans",
             "contentType": "event",
-            "startTime": "2025-04-26T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56a2fb33-ae99-4f8f-8a27-ad5fb3224e5c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-26T19:52:22.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.56a2fb33-ae99-4f8f-8a27-ad5fb3224e5c/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -112,9 +112,9 @@
             "title": "North America Cup 2025 - 1st Semi-Final - Canada vsCayman Islands",
             "name": "North America Cup 2025 - 1st Semi-Final - Canada vsCayman Islands",
             "contentType": "event",
-            "startTime": "2025-04-26T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.af5d77cb-7c1f-4546-9127-c31a0fd52101/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-26T20:00:42.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.af5d77cb-7c1f-4546-9127-c31a0fd52101/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
