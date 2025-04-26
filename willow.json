@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:24:01 PM 26-04-2025",
+    "last update time": "10:24:07 PM 26-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.7542103f-6951-4252-a69c-493999dee8e2",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 44th Match - Kolkata Knight Riders vs Punjab Kings",
             "contentType": "event",
             "startTime": "2025-04-26T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7542103f-6951-4252-a69c-493999dee8e2/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7542103f-6951-4252-a69c-493999dee8e2/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -156,6 +156,58 @@
                 ],
                 "keys": [
                     "021ac80a2c9a2e79a7c38d6fe4cec56a:4f271f20a17f134881fff713648e0f46"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.72d59906-9aab-4bb0-9af5-7673641cd666",
+            "title": "North America Cup 2025 - 2nd Semi-Final - United States Of America vs Bermuda",
+            "name": "North America Cup 2025 - 2nd Semi-Final - United States Of America vs Bermuda",
+            "contentType": "event",
+            "startTime": "2025-04-27T00:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72d59906-9aab-4bb0-9af5-7673641cd666/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMBSQA6ODRHHWET.af9e7711708d4d6b9c0be35ee401013b.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a46aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMBSQA6ODRHHWET.85c5f38b3eee49e9899913fb21558431.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a29aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7qoalnq5wm/out/v1/22be583dd1b84e509b82dc22f3cabf7a/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "9edd3e00a3c246beeab6e0464d34dad3:9254696dd8b85cb80ff4ef98524b328a"
                 ]
             }
         }
