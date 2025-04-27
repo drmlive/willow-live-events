@@ -1,67 +1,15 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:26:54 AM 28-04-2025",
+    "last update time": "01:27:01 AM 28-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54",
-            "title": "Indian Premier League 2025 - 46th Match - Delhi Capitals vs Royal Challengers Bengaluru",
-            "name": "Indian Premier League 2025 - 46th Match - Delhi Capitals vs Royal Challengers Bengaluru",
-            "contentType": "event",
-            "startTime": "2025-04-27T18:52:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMA27HCFXGNZAM7.49b5c821239e431d869d8f7cf3894b4f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a31aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMA27HCFXGNZAM7.26eeeb5f25044e84bedbe099ff7f6261.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a140aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "698b34c82c6722d845ad4f8d03c16da6:ac4485581f9bf86d430617ec1ae9af33"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914",
             "title": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
             "name": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
             "contentType": "event",
             "startTime": "2025-04-27T19:55:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -104,58 +52,6 @@
                 ],
                 "keys": [
                     "f5a561b0b0f5804e2b4db484fedce968:67471188e83582363246c090b3ab8519"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.43eaa1f7-4f3d-45c1-baa6-f95dfb6ce4c1",
-            "title": "Zimbabwe Women tour of USA 2025 - 2nd T20I - United States of America Women vs Zimbabwe Women",
-            "name": "Zimbabwe Women tour of USA 2025 - 2nd T20I - United States of America Women vs Zimbabwe Women",
-            "contentType": "event",
-            "startTime": "2025-04-27T21:10:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.43eaa1f7-4f3d-45c1-baa6-f95dfb6ce4c1/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a55aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMPUXKSFFQUNHLK.0bb4d13f5fcc4cedaaedd4a6d46a11dd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a42aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMPUXKSFFQUNHLK.48fd0dff9a5f4653bb8886d84fc6ebff.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1pikugst2x/out/v1/019de02a7240405981d7ed0b76d04351/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "03434302c36e4ced225e5af3284ca5cb:c00571a8209c4cec4307514140be071e"
                 ]
             }
         },
