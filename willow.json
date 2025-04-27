@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:26:41 PM 27-04-2025",
+    "last update time": "11:26:48 PM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54",
@@ -164,9 +164,9 @@
             "title": "North America Cup 2025 - Final - Canada vs United States Of America",
             "name": "North America Cup 2025 - Final - Canada vs United States Of America",
             "contentType": "event",
-            "startTime": "2025-04-28T00:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.945cd805-f4d3-4f4d-af5c-9babd27182e7/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-27T22:40:15.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.945cd805-f4d3-4f4d-af5c-9babd27182e7/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
