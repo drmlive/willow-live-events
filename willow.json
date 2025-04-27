@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:26:07 PM 27-04-2025",
+    "last update time": "06:26:13 PM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a56a9e6c-a315-4aee-b8ab-e204d4842400",
@@ -104,6 +104,58 @@
                 ],
                 "keys": [
                     "698b34c82c6722d845ad4f8d03c16da6:ac4485581f9bf86d430617ec1ae9af33"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914",
+            "title": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
+            "name": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
+            "contentType": "event",
+            "startTime": "2025-04-27T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMAEEK4DC46XCHQ.259b507bc2f2491eae78ee5abad16210.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a183aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMAEEK4DC46XCHQ.37106444229446a5917b4935c0192f1c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a103aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z9ya7jbmyd/out/v1/fda43cb99a1f452280263506e48ffd09/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "f5a561b0b0f5804e2b4db484fedce968:67471188e83582363246c090b3ab8519"
                 ]
             }
         }
