@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:26:34 PM 27-04-2025",
+    "last update time": "10:26:41 PM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54",
@@ -156,6 +156,58 @@
                 ],
                 "keys": [
                     "03434302c36e4ced225e5af3284ca5cb:c00571a8209c4cec4307514140be071e"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.945cd805-f4d3-4f4d-af5c-9babd27182e7",
+            "title": "North America Cup 2025 - Final - Canada vs United States Of America",
+            "name": "North America Cup 2025 - Final - Canada vs United States Of America",
+            "contentType": "event",
+            "startTime": "2025-04-28T00:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.945cd805-f4d3-4f4d-af5c-9babd27182e7/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMPOSCBVAV2R3VU.f657bbc57ba44b8096111c23d4d3c6b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a72aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMPOSCBVAV2R3VU.929d5eb2238d4f8f9dc7b5eab266a97f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a42aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6o1lrojlth/out/v1/da55067efac24df08bb0699ecbce269a/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "d9decc34378f6f0a82bca499c4fcc724:175592a643e5f2568a316156464da491"
                 ]
             }
         }
