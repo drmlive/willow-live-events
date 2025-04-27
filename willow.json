@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:26:01 PM 27-04-2025",
+    "last update time": "05:26:07 PM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a56a9e6c-a315-4aee-b8ab-e204d4842400",
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "cccadc22dd01226f78f11ad5de50d388:fe9a837a99ba4eb526cbb55b3ef169ca"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54",
+            "title": "Indian Premier League 2025 - 46th Match - Delhi Capitals vs Royal Challengers Bengaluru",
+            "name": "Indian Premier League 2025 - 46th Match - Delhi Capitals vs Royal Challengers Bengaluru",
+            "contentType": "event",
+            "startTime": "2025-04-27T19:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a7f9480-3979-4c47-a6f7-594a5ebd3e54/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMA27HCFXGNZAM7.49b5c821239e431d869d8f7cf3894b4f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a31aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMA27HCFXGNZAM7.26eeeb5f25044e84bedbe099ff7f6261.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a140aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ykcjbbz7kb/out/v1/59ffb8195365496abf42c813e5c484f6/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "698b34c82c6722d845ad4f8d03c16da6:ac4485581f9bf86d430617ec1ae9af33"
                 ]
             }
         }
