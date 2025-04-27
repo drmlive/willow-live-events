@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:26:20 PM 27-04-2025",
+    "last update time": "08:26:27 PM 27-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a56a9e6c-a315-4aee-b8ab-e204d4842400",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 45th Match - Mumbai Indians vs Lucknow Super Giants",
             "contentType": "event",
             "startTime": "2025-04-27T14:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a56a9e6c-a315-4aee-b8ab-e204d4842400/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a56a9e6c-a315-4aee-b8ab-e204d4842400/5/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -112,9 +112,9 @@
             "title": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
             "name": "Pakistan Super League 2025 - 17th Match - Quetta Gladiators vs Peshawar Zalmi",
             "contentType": "event",
-            "startTime": "2025-04-27T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-27T19:55:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.004c02d8-76ab-4ada-9b6a-64130aaa3914/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
