@@ -1,6 +1,59 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:28:45 PM 28-04-2025",
-    "matches": []
+    "last update time": "05:28:51 PM 28-04-2025",
+    "matches": [
+        {
+            "titleId": "amzn1.dv.gti.1f5ce8a8-3300-4a52-ac9a-b863348db3ed",
+            "title": "Indian Premier League 2025 - 47th Match - Rajasthan Royals vs Gujarat Titans",
+            "name": "Indian Premier League 2025 - 47th Match - Rajasthan Royals vs Gujarat Titans",
+            "contentType": "event",
+            "startTime": "2025-04-28T18:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1f5ce8a8-3300-4a52-ac9a-b863348db3ed/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMDTBITKHSTRPSS.011b25135cd74851bc12e363a339466e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a148aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMDTBITKHSTRPSS.e9b46324622c43fb9a8b246b97f15ba6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/9vgd27zgam/out/v1/a07244afeb0140acb50c813d6aaebf7a/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "6ade2466c4bb1b9b9422f8d171913c14:f355d3cd2c830825c7606d258198174f"
+                ]
+            }
+        }
+    ]
 }
