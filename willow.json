@@ -1,67 +1,15 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:32:07 PM 29-04-2025",
+    "last update time": "12:32:13 AM 30-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.480729c3-94c8-4126-86a5-dc6b1affdecc",
-            "title": "Indian Premier League 2025 - 48th Match - Delhi Capitals vs Kolkata Knight Riders",
-            "name": "Indian Premier League 2025 - 48th Match - Delhi Capitals vs Kolkata Knight Riders",
-            "contentType": "event",
-            "startTime": "2025-04-29T18:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.480729c3-94c8-4126-86a5-dc6b1affdecc/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a153aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMK6KLGH36I36OB.da3d2088e4604a0ca3a01e0d4c149cc5.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a166aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMK6KLGH36I36OB.185e6f9e1e89471181d342ca244961b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "5a5c128d4321b6f9181dff06780230e0:3a0663824266168b8e36a0b80e8e9a07"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.ed7ea53b-6df9-4080-943d-ab36208df394",
             "title": "Pakistan Super League 2025 - 18th Match - Quetta Gladiators vs Multan Sultans",
             "name": "Pakistan Super League 2025 - 18th Match - Quetta Gladiators vs Multan Sultans",
             "contentType": "event",
             "startTime": "2025-04-29T19:55:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed7ea53b-6df9-4080-943d-ab36208df394/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed7ea53b-6df9-4080-943d-ab36208df394/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
