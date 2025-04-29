@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:31:38 PM 29-04-2025",
+    "last update time": "07:31:43 PM 29-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.480729c3-94c8-4126-86a5-dc6b1affdecc",
@@ -104,6 +104,58 @@
                 ],
                 "keys": [
                     "d295bfb4976369ddca1a7b50e3c26042:20174f21fce3dfe57ce6e213127a9761"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.28c4b87b-ce11-4f6c-bb48-24276a13644f",
+            "title": "Zimbabwe Women tour of USA 2025 - 3rd T20I - United States of America Women vs Zimbabwe Women",
+            "name": "Zimbabwe Women tour of USA 2025 - 3rd T20I - United States of America Women vs Zimbabwe Women",
+            "contentType": "event",
+            "startTime": "2025-04-29T21:10:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28c4b87b-ce11-4f6c-bb48-24276a13644f/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMAHYAK47NTZUSK.4106c710587f4539908d36554f3af057.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a129aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMAHYAK47NTZUSK.cdf683bd854c49d98197316c696c1f5a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a207aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "9513af778d217aa9f5358579712a3f4b:dde969292faa32646bc68d97c3047b34"
                 ]
             }
         }
