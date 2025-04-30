@@ -1,1 +1,111 @@
-error code: 524
+{
+    "name": "Willow by Cricbuzz Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "06:42:12 PM 30-04-2025",
+    "matches": [
+        {
+            "titleId": "amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c",
+            "title": "Indian Premier League 2025 - 49th Match - Chennai Super Kings vs Punjab Kings",
+            "name": "Indian Premier League 2025 - 49th Match - Chennai Super Kings vs Punjab Kings",
+            "contentType": "event",
+            "startTime": "2025-04-30T18:25:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMPPZTPUHS2NLN.9767781fabe34675bb7ed456de21d316.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a200aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMPPZTPUHS2NLN.644a0f2fef1b44db9b6b649903e20342.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a131aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "2b4cb381f97a6d1d4919ec32c5527235:442d3309faf503fa6752490afaf7e4da"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684",
+            "title": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
+            "name": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
+            "contentType": "event",
+            "startTime": "2025-04-30T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMI3HR7D35U7BVN.01cdc95555664b31813869a91d60dad3.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a84aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMI3HR7D35U7BVN.e2a462d3be8a4c6f8726a1ca67bb6f1c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a195aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ovupndkosp/out/v1/8ea77e6fb3474cb4b7cd0bd67b929dd2/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "475ee7bb899c231bbf37bd0d7c1ec491:3ef44c01786d693212bebed89ceb8da0"
+                ]
+            }
+        }
+    ]
+}
