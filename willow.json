@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:42:18 PM 30-04-2025",
+    "last update time": "08:42:23 PM 30-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 49th Match - Chennai Super Kings vs Punjab Kings",
             "contentType": "event",
             "startTime": "2025-04-30T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
@@ -60,9 +60,9 @@
             "title": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
             "name": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
             "contentType": "event",
-            "startTime": "2025-04-30T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-04-30T19:55:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
