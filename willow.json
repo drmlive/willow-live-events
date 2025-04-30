@@ -1,67 +1,15 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:42:44 AM 01-05-2025",
+    "last update time": "01:42:51 AM 01-05-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c",
-            "title": "Indian Premier League 2025 - 49th Match - Chennai Super Kings vs Punjab Kings",
-            "name": "Indian Premier League 2025 - 49th Match - Chennai Super Kings vs Punjab Kings",
-            "contentType": "event",
-            "startTime": "2025-04-30T18:25:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8cb32428-9a17-4c8d-aa30-c526d8d53f8c/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMPPZTPUHS2NLN.9767781fabe34675bb7ed456de21d316.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a200aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMPPZTPUHS2NLN.644a0f2fef1b44db9b6b649903e20342.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a131aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/4cd4uajdn0/out/v1/3dd15d1266f84a7ba844c28bc2bc6148/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "2b4cb381f97a6d1d4919ec32c5527235:442d3309faf503fa6752490afaf7e4da"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684",
             "title": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
             "name": "Pakistan Super League 2025 - 19th Match - Lahore Qalandars vs Islamabad United",
             "contentType": "event",
             "startTime": "2025-04-30T19:55:02.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fcfe8ad6-3672-4a4c-9349-e72e6d25f684/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
