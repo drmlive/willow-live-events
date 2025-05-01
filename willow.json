@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:44:36 PM 01-05-2025",
+    "last update time": "05:44:43 PM 01-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a86c42dc-c5fd-420f-a709-13c77fd6f55c",
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "b959d04dadbc0b8c678279d6dac8e61b:88da389e7611124c79000440f6cc5594"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478",
+            "title": "Indian Premier League 2025 - 50th Match - Rajasthan Royals vs Mumbai Indians",
+            "name": "Indian Premier League 2025 - 50th Match - Rajasthan Royals vs Mumbai Indians",
+            "contentType": "event",
+            "startTime": "2025-05-01T19:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMTH6KPCFZQM2F.eaa294742c5a47b4868b06a53895eebf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a28aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMTH6KPCFZQM2F.a83140d2ee0140d4b54be16d4b9ac7dc.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a134aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "4811508a9b3e58f52a57c70e2aa0a874:c70b165bbd30038116ddd28ef07966a8"
                 ]
             }
         }
