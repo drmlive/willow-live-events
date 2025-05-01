@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:44:55 PM 01-05-2025",
+    "last update time": "08:45:02 PM 01-05-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.a86c42dc-c5fd-420f-a709-13c77fd6f55c",
-            "title": "Pakistan Super League 2025 - 20th Match - Multan Sultans vs Karachi Kings",
-            "name": "Pakistan Super League 2025 - 20th Match - Multan Sultans vs Karachi Kings",
-            "contentType": "event",
-            "startTime": "2025-05-01T14:59:25.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a86c42dc-c5fd-420f-a709-13c77fd6f55c/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMOD353E3JK3FGH.e5f5c0af3c4641fa907069d4ecf86560.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a91aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMOD353E3JK3FGH.6d497319b990404bbe57478cb4595d94.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a188aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "b959d04dadbc0b8c678279d6dac8e61b:88da389e7611124c79000440f6cc5594"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478",
             "title": "Indian Premier League 2025 - 50th Match - Rajasthan Royals vs Mumbai Indians",
@@ -112,9 +60,9 @@
             "title": "Zimbabwe Women tour of USA 2025 - 1st ODI - United States of America Women vs Zimbabwe Women",
             "name": "Zimbabwe Women tour of USA 2025 - 1st ODI - United States of America Women vs Zimbabwe Women",
             "contentType": "event",
-            "startTime": "2025-05-01T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38c10660-56d1-44cb-9e30-444712d7979a/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-05-01T19:55:02.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38c10660-56d1-44cb-9e30-444712d7979a/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -164,9 +112,9 @@
             "title": "Pakistan Super League 2025 - 21st Match - Lahore Qalandars vs Quetta Gladiators",
             "name": "Pakistan Super League 2025 - 21st Match - Lahore Qalandars vs Quetta Gladiators",
             "contentType": "event",
-            "startTime": "2025-05-01T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.481c7712-5139-45a9-9df7-8236f4dfa7f3/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-05-01T19:56:35.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.481c7712-5139-45a9-9df7-8236f4dfa7f3/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
