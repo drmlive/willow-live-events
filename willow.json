@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:45:16 PM 01-05-2025",
+    "last update time": "11:45:24 PM 01-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478",
@@ -113,7 +113,7 @@
             "name": "Pakistan Super League 2025 - 21st Match - Lahore Qalandars vs Quetta Gladiators",
             "contentType": "event",
             "startTime": "2025-05-01T19:56:35.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.481c7712-5139-45a9-9df7-8236f4dfa7f3/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.481c7712-5139-45a9-9df7-8236f4dfa7f3/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
