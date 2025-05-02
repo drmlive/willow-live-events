@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:48:22 PM 02-05-2025",
+    "last update time": "12:48:29 AM 03-05-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.d568f3e2-2ddd-48bf-becc-5852fcf14e52",
-            "title": "Indian Premier League 2025 - 51st Match - Gujarat Titans vs Sunrisers Hyderabad",
-            "name": "Indian Premier League 2025 - 51st Match - Gujarat Titans vs Sunrisers Hyderabad",
-            "contentType": "event",
-            "startTime": "2025-05-02T18:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d568f3e2-2ddd-48bf-becc-5852fcf14e52/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a112aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMA5N4RIEZ6TMGP.70eb864bc5514a9fbf7c37b4fd815b86.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a18aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMA5N4RIEZ6TMGP.1922add0dd5e4ddebc3ecbddef93ec9a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "75bba1d349a469c8c86ed0f75fdf9c00:b136d005e0633ad41ebe056ac334295b"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.b61de21e-6b2c-4e7e-be44-c58159d77368",
             "title": "Pakistan Super League 2025 - 22nd Match - Peshawar Zalmi vs Islamabad United",
