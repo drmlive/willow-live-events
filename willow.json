@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:48:29 AM 03-05-2025",
+    "last update time": "01:48:36 AM 03-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.b61de21e-6b2c-4e7e-be44-c58159d77368",
@@ -9,7 +9,7 @@
             "name": "Pakistan Super League 2025 - 22nd Match - Peshawar Zalmi vs Islamabad United",
             "contentType": "event",
             "startTime": "2025-05-02T19:55:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b61de21e-6b2c-4e7e-be44-c58159d77368/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b61de21e-6b2c-4e7e-be44-c58159d77368/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
