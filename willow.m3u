@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1dbbc8bc-50d5-4e24-89d5-b6ffda8c7f27/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 52nd Match - Royal Challengers Bengaluru vs Chennai Super Kings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ef1ba30f79294c62cc5d0e86a492f15:9919b84dfecb9d3aaf3a2382608ea7a1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/upyv4mbcv4/out/v1/877455a9384a40e7a4bb96e166d39ef7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf8cae6e-77d1-461a-850a-e2d27b1a5d0b/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 23rd Match - Quetta Gladiators vs Islamabad United
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f501f1ed6f307ebda6b36974d0d334:793cb15a54022828e1845a67293b6a46
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fknpqixsxa/out/v1/71c21a7e057949fbb50a1fa4a9b6fa02/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c74ee6ba-a11e-43d5-a753-86dbb139047c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Zimbabwe Women tour of USA 2025 - 2nd ODI - United States of America Women vs Zimbabwe Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b33218fb7db9131439ce471948de0d:481bbe98a7eadc24094d1a52842eac9e
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cmejnjtmhq/out/v1/9735fb2a4f3943cfbb7308120b27f544/cenc.mpd
+
