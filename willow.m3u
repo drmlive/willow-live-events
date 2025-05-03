@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c74ee6ba-a11e-43d5-a753-86dbb139047c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Zimbabwe Women tour of USA 2025 - 2nd ODI - United States of America Women vs Zimbabwe Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77b33218fb7db9131439ce471948de0d:481bbe98a7eadc24094d1a52842eac9e
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cmejnjtmhq/out/v1/9735fb2a4f3943cfbb7308120b27f544/cenc.mpd
-
