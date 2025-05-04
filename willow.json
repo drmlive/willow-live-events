@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:59 AM 05-05-2025",
+    "last update time": "02:21:07 AM 05-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d857dbfc-29cf-43b9-bb23-50ea6ff22451",
@@ -9,7 +9,7 @@
             "name": "Pakistan Super League 2025 - 24th Match - Lahore Qalandars vs Karachi Kings",
             "contentType": "event",
             "startTime": "2025-05-04T19:55:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d857dbfc-29cf-43b9-bb23-50ea6ff22451/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d857dbfc-29cf-43b9-bb23-50ea6ff22451/6/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
