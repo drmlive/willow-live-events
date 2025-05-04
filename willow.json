@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:50:09 PM 04-05-2025",
+    "last update time": "05:20:18 PM 04-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.70615499-7f76-444f-ab98-a95ae2933fd2",
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "15b6f857d4b55b6b8d7030cae2ebdc79:87a610cd55de104d7a2b23cbd5646bea"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.60032bc9-ec16-4276-b0a1-b49a6ec125b6",
+            "title": "Indian Premier League 2025 - 54th Match - Punjab Kings vs Lucknow Super Giants",
+            "name": "Indian Premier League 2025 - 54th Match - Punjab Kings vs Lucknow Super Giants",
+            "contentType": "event",
+            "startTime": "2025-05-04T19:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60032bc9-ec16-4276-b0a1-b49a6ec125b6/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a158aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMEL3FITZIFSBIA.8be39eefa88d4f4aa1d38ea55eb1ca0c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a191aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMEL3FITZIFSBIA.4bc33b7badd64ecd9065247467808d9b.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "8316939c14150de52cff63928ee82cc8:0885e65fbed5e0ffaa986b67ffabe231"
                 ]
             }
         }
