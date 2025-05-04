@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d857dbfc-29cf-43b9-bb23-50ea6ff22451/6/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 24th Match - Lahore Qalandars vs Karachi Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec385e8f3456ad24b127287d9ccbd98e:308446c3d0f857bbe3098c4ead3859dd
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vejt0jcbzp/out/v1/72507cec4cc64ec1838d36a8777a312c/cenc.mpd
-
