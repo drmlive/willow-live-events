@@ -1,16 +1,16 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:37 PM 05-05-2025",
+    "last update time": "06:52:46 PM 05-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.527a3ed5-eaa8-410d-a06d-a8d5a8acf8ab",
             "title": "Indian Premier League 2025 - 55th Match - Sunrisers Hyderabad vs Delhi Capitals",
             "name": "Indian Premier League 2025 - 55th Match - Sunrisers Hyderabad vs Delhi Capitals",
             "contentType": "event",
-            "startTime": "2025-05-05T19:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a3ed5-eaa8-410d-a06d-a8d5a8acf8ab/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-05-05T18:26:45.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a3ed5-eaa8-410d-a06d-a8d5a8acf8ab/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "9eca76fa4a884d6f24c57b872a39a43f:b05ae8caec2f5e9682b237d836ddb727"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.63b30589-4e8f-4602-9a78-9ed6a4bb2740",
+            "title": "Pakistan Super League 2025 - 25th Match - Multan Sultans vs Peshawar Zalmi",
+            "name": "Pakistan Super League 2025 - 25th Match - Multan Sultans vs Peshawar Zalmi",
+            "contentType": "event",
+            "startTime": "2025-05-05T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63b30589-4e8f-4602-9a78-9ed6a4bb2740/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMPL6U62OIRSVYC.3813063b4996470aa7fc3552c77a7a5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a162aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMPL6U62OIRSVYC.dd0c5d4ce8d94b11a60ded6c1bb5522b.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a136aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lb3ov95b1c/out/v1/5216bdb1986a4955b198434818178795/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "906527c89520758a559d6001feb7c90b:117a7de002125005c154eb26e3ea9088"
                 ]
             }
         }
