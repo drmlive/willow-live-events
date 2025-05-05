@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a3ed5-eaa8-410d-a06d-a8d5a8acf8ab/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 55th Match - Sunrisers Hyderabad vs Delhi Capitals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9eca76fa4a884d6f24c57b872a39a43f:b05ae8caec2f5e9682b237d836ddb727
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2wz5w9jhat/out/v1/cd1715e7d4ee4befb9c707bd07204233/cenc.mpd
+
