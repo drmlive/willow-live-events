@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:48:23 PM 06-05-2025",
+    "last update time": "12:18:33 AM 07-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.2bbeb873-8502-4c98-916a-6caa62893c3e",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 56th Match - Mumbai Indians vs Gujarat Titans",
             "contentType": "event",
             "startTime": "2025-05-06T18:34:46.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bbeb873-8502-4c98-916a-6caa62893c3e/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2bbeb873-8502-4c98-916a-6caa62893c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
