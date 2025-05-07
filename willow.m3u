@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38d3fa30-f052-451a-b8c9-dae531673229/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 26th Match - Islamabad United vs Quetta Gladiators
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb7949078ca12e9ff82d5179691fd687:d6a5804c449f775d9e8f113381fb5d2c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd
-

@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:53:18 AM 08-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.38d3fa30-f052-451a-b8c9-dae531673229",
-            "title": "Pakistan Super League 2025 - 26th Match - Islamabad United vs Quetta Gladiators",
-            "name": "Pakistan Super League 2025 - 26th Match - Islamabad United vs Quetta Gladiators",
-            "contentType": "event",
-            "startTime": "2025-05-07T19:50:25.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38d3fa30-f052-451a-b8c9-dae531673229/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a15aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMOC5VQORQS6NDI.9c93b2c0cada470da080968a2ea4778e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a21aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMOC5VQORQS6NDI.7f6a0596824141918498e0a159180388.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fmmdlo6azt/out/v1/8ff766e394a84987a305936f837d185e/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "cb7949078ca12e9ff82d5179691fd687:d6a5804c449f775d9e8f113381fb5d2c"
-                ]
-            }
-        }
-    ]
+    "last update time": "03:23:44 AM 08-05-2025",
+    "matches": []
 }
