@@ -1,16 +1,16 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:18:20 PM 08-05-2025",
+    "last update time": "07:48:28 PM 08-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3",
             "title": "Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals",
             "name": "Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals",
             "contentType": "event",
-            "startTime": "2025-05-08T18:25:00.000Z",
+            "startTime": "2025-05-08T18:25:05.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -52,58 +52,6 @@
                 ],
                 "keys": [
                     "f7526d76b4ec77e77d64c1c9eddcf992:6ebf591ee0856af0c9b96a662ad98fe2"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.37a7b57c-1c60-406b-b980-d3a2c25ef32f",
-            "title": "Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings",
-            "name": "Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings",
-            "contentType": "event",
-            "startTime": "2025-05-08T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37a7b57c-1c60-406b-b980-d3a2c25ef32f/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNKQKVND3QDDW6.41ba97cffb04452d8ceca7325dd084ac.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a191aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNKQKVND3QDDW6.b7616e51d4b5442d8c8fd53310809cf7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a199aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "1fc1afce1df1149c61ec73416defaa28:902056b3d649f68aa9bbf16093d4ec77"
                 ]
             }
         }
