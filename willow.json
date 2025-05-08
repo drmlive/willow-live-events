@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:18:37 PM 08-05-2025",
+    "last update time": "10:48:46 PM 08-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals",
             "contentType": "event",
             "startTime": "2025-05-08T18:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/5/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
