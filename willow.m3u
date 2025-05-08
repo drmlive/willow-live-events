@@ -1,10 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e62bf8-5eb0-466b-b397-da54a0e1e8d3/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 58th Match - Punjab Kings vs Delhi Capitals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7526d76b4ec77e77d64c1c9eddcf992:6ebf591ee0856af0c9b96a662ad98fe2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qxeax9v1j6/out/v1/0469ba87c8e845518dd87f6176dd459c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37a7b57c-1c60-406b-b980-d3a2c25ef32f/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fc1afce1df1149c61ec73416defaa28:902056b3d649f68aa9bbf16093d4ec77
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd
 
