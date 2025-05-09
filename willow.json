@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:53:11 AM 10-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.d52b2b68-5991-4f00-9071-e5dc08bacb8c",
-            "title": "Pakistan Super League 2025 - 28th Match - Peshawar Zalmi vs Lahore Qalandars",
-            "name": "Pakistan Super League 2025 - 28th Match - Peshawar Zalmi vs Lahore Qalandars",
-            "contentType": "event",
-            "startTime": "2025-05-09T20:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d52b2b68-5991-4f00-9071-e5dc08bacb8c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH3YWEVUNX6JEZ.c38e4c97875146f4b1934afd0e9ec243.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a197aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH3YWEVUNX6JEZ.ad8915f134c8452d9fda28ddd93a25ba.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a88aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ddgsb2e4jl/out/v1/e32b4021449e4e39a7c019a8e29ca72f/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "2bf5257d18d72e636e44191a8724d2ae:74d708bd1a45dd22c215ed3d0867b243"
-                ]
-            }
-        }
-    ]
+    "last update time": "03:23:22 AM 10-05-2025",
+    "matches": []
 }
