@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eb411d3-d734-42f0-840d-d1757541a4ad/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 60th Match - Sunrisers Hyderabad vs Kolkata Knight Riders
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de38e65bd7d66c60939a9a1fc7c9a598:0d544fc856fb98478ce9507bee6cae57
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/medo10zjrt/out/v1/0b18f369298741a094671ea8fedeaeb1/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
