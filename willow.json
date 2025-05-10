@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:55:57 AM 11-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e",
-            "title": "Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings",
-            "name": "Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings",
-            "contentType": "event",
-            "startTime": "2025-05-10T20:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMCB25NZG46ZCBE.414f0ca54fd540bdb0746b29c5ca2a82.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a26aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMCB25NZG46ZCBE.f68793c81f39484aafcd58fc82e510fd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a194aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "f6abdfdffad9d71ef3b241bf893b9cf0:1c8ade424e2859bdb98451ee8f10a92b"
-                ]
-            }
-        }
-    ]
+    "last update time": "03:26:07 AM 11-05-2025",
+    "matches": []
 }
