@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:28:31 AM 12-05-2025",
+    "last update time": "01:58:41 AM 12-05-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.923c7649-6dd4-4d5a-9e10-c211c8854b1a",
-            "title": "Indian Premier League 2025 - 62nd Match - Delhi Capitals vs Gujarat Titans",
-            "name": "Indian Premier League 2025 - 62nd Match - Delhi Capitals vs Gujarat Titans",
-            "contentType": "event",
-            "startTime": "2025-05-11T19:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.923c7649-6dd4-4d5a-9e10-c211c8854b1a/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMGVRRIF4J2TPQ4.cac3986d187a4eccb4d62c4368ba8ab1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a48aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMGVRRIF4J2TPQ4.19fc948cfc4449eb88626f4b386a19e3.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a210aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "4c32058d069f3e874c219b276df8100e:cb9e5a5bdd493a323d923f3eca7ff481"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.e5ed935b-a7ef-4bb3-b08f-852c29fcd828",
             "title": "Pakistan Super League 2025 - 30th Match - Multan Sultans vs Quetta Gladiators",
