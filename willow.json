@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:41 AM 12-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.e5ed935b-a7ef-4bb3-b08f-852c29fcd828",
-            "title": "Pakistan Super League 2025 - 30th Match - Multan Sultans vs Quetta Gladiators",
-            "name": "Pakistan Super League 2025 - 30th Match - Multan Sultans vs Quetta Gladiators",
-            "contentType": "event",
-            "startTime": "2025-05-11T20:25:05.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5ed935b-a7ef-4bb3-b08f-852c29fcd828/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a177aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMLDS4HSUW7CTCX.610c2160a8954a7c9958452afe6ed9d2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a51aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMLDS4HSUW7CTCX.7a5ae145a3984a59a1ebfdc058d7f320.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "549a18546948a86ebaf24cc772fbb93e:90b20c62a84b8e4ac7a0a36bd75a7aba"
-                ]
-            }
-        }
-    ]
+    "last update time": "03:28:51 AM 12-05-2025",
+    "matches": []
 }
