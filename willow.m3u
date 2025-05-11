@@ -16,3 +16,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/znznpjsprm/
 #KODIPROP:inputstream.adaptive.license_key=4c32058d069f3e874c219b276df8100e:cb9e5a5bdd493a323d923f3eca7ff481
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quvq0h3iri/out/v1/38c83d3d4dc0400aa2016677f7b4cba2/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5ed935b-a7ef-4bb3-b08f-852c29fcd828/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 30th Match - Multan Sultans vs Quetta Gladiators
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549a18546948a86ebaf24cc772fbb93e:90b20c62a84b8e4ac7a0a36bd75a7aba
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd
+
