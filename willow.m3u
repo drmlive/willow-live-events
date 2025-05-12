@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d918dda0-433d-4ef5-9871-320c7b21f821/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 63rd Match - Chennai Super Kings vs Rajasthan Royals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f40d8adb0ba28944d8abb2f08e91f64:63365142efdaf3468f572d6bc93118c1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kgf8yvwibs/out/v1/7065b6b77e1047eeafe669b0c081393f/cenc.mpd
+
