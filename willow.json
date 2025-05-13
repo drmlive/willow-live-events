@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:03:02 PM 13-05-2025",
+    "last update time": "06:33:16 PM 13-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.4fae1320-f399-465a-af81-07758b937d67",
@@ -52,6 +52,58 @@
                 ],
                 "keys": [
                     "f295ae3c8af75fa347e81b0dea6d64d2:0375232fe37177cc9014f8f80b9bdde8"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.4969b506-78a4-400d-b2b7-25858311d802",
+            "title": "Pakistan Super League 2025 - Qualifier - TBC vs TBC",
+            "name": "Pakistan Super League 2025 - Qualifier - TBC vs TBC",
+            "contentType": "event",
+            "startTime": "2025-05-13T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4969b506-78a4-400d-b2b7-25858311d802/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMLVQLMWQCUP64T.dd29fec94e8a48a58ed71175f8f6c944.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a172aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMLVQLMWQCUP64T.407c636f31684799a869dadc84c1c766.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a79aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/owcgnts8ku/out/v1/9eb7d359c3d94473b3d5a97054c1a1bb/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "885a4d91f337bc74e20d63d8c58d6184:d07c096a8b79cefba36eb1192d435937"
                 ]
             }
         }
