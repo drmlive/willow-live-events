@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:57:11 AM 18-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.a0e2cd56-ad32-41e9-a2c8-08af9127682f",
-            "title": "ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada",
-            "name": "ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada",
-            "contentType": "event",
-            "startTime": "2025-05-17T19:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0e2cd56-ad32-41e9-a2c8-08af9127682f/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMIIFTSUSJKKUUD.a36e2c570deb4e96bea7ed4473938e1d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a163aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMIIFTSUSJKKUUD.06d10bc1334c466ca80a236d29abb00f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a126aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "f45a78625e41a525fb3ad51a2b91c1bd:d55e79fdfcf3e98459938f674ed09159"
-                ]
-            }
-        }
-    ]
+    "last update time": "05:27:20 AM 18-05-2025",
+    "matches": []
 }

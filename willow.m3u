@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0e2cd56-ad32-41e9-a2c8-08af9127682f/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f45a78625e41a525fb3ad51a2b91c1bd:d55e79fdfcf3e98459938f674ed09159
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd
-
