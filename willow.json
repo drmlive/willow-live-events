@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:56:03 PM 17-05-2025",
+    "last update time": "08:26:25 PM 17-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.a64767a1-4b17-44f7-9f2f-ca91633e16c8",
@@ -60,9 +60,9 @@
             "title": "ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada",
             "name": "ICC CWC League Two 2023-27 - 1st Match - United States of America vs Canada",
             "contentType": "event",
-            "startTime": "2025-05-17T19:25:00.000Z",
+            "startTime": "2025-05-17T19:25:01.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0e2cd56-ad32-41e9-a2c8-08af9127682f/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -108,65 +108,13 @@
             }
         },
         {
-            "titleId": "amzn1.dv.gti.477d2de5-5e05-47c3-adc5-5e6bde9ba945",
-            "title": "Bangladesh tour of UAE 2025 - 1st T20I - United Arab Emirates vs Bangladesh",
-            "name": "Bangladesh tour of UAE 2025 - 1st T20I - United Arab Emirates vs Bangladesh",
-            "contentType": "event",
-            "startTime": "2025-05-17T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.477d2de5-5e05-47c3-adc5-5e6bde9ba945/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMC4XB24FRDGIWQ.3f3812c2abd7432398194ae0ffcdc333.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a182aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMC4XB24FRDGIWQ.49d9c095294b4744bb215188d192b5d2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a33aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "2af021b20804705152d029fc897f39c8:112d190214bfca6febffbfc0ce2651bb"
-                ]
-            }
-        },
-        {
             "titleId": "amzn1.dv.gti.8f52c441-f074-4fb6-b297-1e938e9503d2",
             "title": "Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings",
             "name": "Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings",
             "contentType": "event",
-            "startTime": "2025-05-17T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f52c441-f074-4fb6-b297-1e938e9503d2/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-05-17T19:25:31.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f52c441-f074-4fb6-b297-1e938e9503d2/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -208,6 +156,58 @@
                 ],
                 "keys": [
                     "e1e28b3f00069b47705d4e7c513bed11:f1061f5080d02a19556ed0e21bd4a2d9"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.477d2de5-5e05-47c3-adc5-5e6bde9ba945",
+            "title": "Bangladesh tour of UAE 2025 - 1st T20I - United Arab Emirates vs Bangladesh",
+            "name": "Bangladesh tour of UAE 2025 - 1st T20I - United Arab Emirates vs Bangladesh",
+            "contentType": "event",
+            "startTime": "2025-05-17T20:25:01.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.477d2de5-5e05-47c3-adc5-5e6bde9ba945/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMC4XB24FRDGIWQ.3f3812c2abd7432398194ae0ffcdc333.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a182aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMC4XB24FRDGIWQ.49d9c095294b4744bb215188d192b5d2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a33aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "2af021b20804705152d029fc897f39c8:112d190214bfca6febffbfc0ce2651bb"
                 ]
             }
         }
