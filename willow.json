@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:12:14 PM 18-05-2025",
+    "last update time": "10:42:23 PM 18-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff",
@@ -61,7 +61,7 @@
             "name": "Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars",
             "contentType": "event",
             "startTime": "2025-05-18T20:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
