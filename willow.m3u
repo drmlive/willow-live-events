@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10321e25451df18aa104ac7985578b10:7e835e3da235f946eded90fdf63276f1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd
-
