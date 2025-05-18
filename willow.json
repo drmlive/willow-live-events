@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:33 PM 18-05-2025",
+    "last update time": "06:11:42 PM 18-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.0c53b0a1-ed80-4834-b8f1-7f04330e6a08",
@@ -104,6 +104,110 @@
                 ],
                 "keys": [
                     "9eac6c35c35d9cb3487d9360ebb23c62:b723193f40639356893ae8c8dad27058"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff",
+            "title": "Indian Premier League 2025 - 60th Match - Delhi Capitals vs Gujarat Titans",
+            "name": "Indian Premier League 2025 - 60th Match - Delhi Capitals vs Gujarat Titans",
+            "contentType": "event",
+            "startTime": "2025-05-18T19:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMKRC6UKXKCD7O6.852f95789e27466f973242bf37b4178d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a113aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMKRC6UKXKCD7O6.6012913bad75432096573a35c8c32a15.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a118aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "cb0149c4ee5c9f50c82d4cffc9551044:0472ea0f977e324e07a820ff7e1f5a1e"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada",
+            "title": "Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars",
+            "name": "Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars",
+            "contentType": "event",
+            "startTime": "2025-05-18T20:25:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMHU3DSXYGFVRPZ.71d7b252a8a841bda69ca1bae8c0eb3d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a92aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMHU3DSXYGFVRPZ.2b2d562df9084e59b308af3f6021f7b1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a153aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "10321e25451df18aa104ac7985578b10:7e835e3da235f946eded90fdf63276f1"
                 ]
             }
         }
