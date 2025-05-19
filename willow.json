@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:15:37 AM 20-05-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.6589145a-5e72-41c0-b194-0ceaf67adc00",
-            "title": "ICC CWC League Two 2023-27 - 2nd Match - Oman vs Canada",
-            "name": "ICC CWC League Two 2023-27 - 2nd Match - Oman vs Canada",
-            "contentType": "event",
-            "startTime": "2025-05-19T19:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6589145a-5e72-41c0-b194-0ceaf67adc00/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a32aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNTAF2KNMLAX7P.20719be30a3f49e9a44133af7441ebec.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a81aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMNTAF2KNMLAX7P.7c3430d93fa1490995557c71cf794d67.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "86dedbf144530876293bcf31fa97aa69:0d4e4e87a001d89b0a8454e031730edf"
-                ]
-            }
-        }
-    ]
+    "last update time": "04:45:46 AM 20-05-2025",
+    "matches": []
 }
