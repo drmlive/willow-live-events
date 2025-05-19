@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:44:50 PM 19-05-2025",
+    "last update time": "09:14:59 PM 19-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.35b8354f-cd36-4647-bb90-1102d9eb4382",
@@ -108,65 +108,13 @@
             }
         },
         {
-            "titleId": "amzn1.dv.gti.03e11144-2aac-48cf-ac55-44f2a5d62e08",
-            "title": "Bangladesh tour of UAE 2025 - 2nd T20I - United Arab Emirates vs Bangladesh",
-            "name": "Bangladesh tour of UAE 2025 - 2nd T20I - United Arab Emirates vs Bangladesh",
-            "contentType": "event",
-            "startTime": "2025-05-19T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03e11144-2aac-48cf-ac55-44f2a5d62e08/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMD4IMXBG4BFJKH.ad01190728d146549fb8adaa4443f5c2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a114aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMD4IMXBG4BFJKH.89f474df8ee94228bc8c36ed1e0012cd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "5b2e4fab17c041f20867625491b13938:9ff81a4b4700b4cb7077e2049d97fbdf"
-                ]
-            }
-        },
-        {
             "titleId": "amzn1.dv.gti.92b480f8-17a6-40ab-a833-412197acd3a8",
             "title": "Pakistan Super League 2025 - 30th Match - Islamabad United vs Karachi Kings",
             "name": "Pakistan Super League 2025 - 30th Match - Islamabad United vs Karachi Kings",
             "contentType": "event",
-            "startTime": "2025-05-19T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92b480f8-17a6-40ab-a833-412197acd3a8/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-05-19T19:46:36.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92b480f8-17a6-40ab-a833-412197acd3a8/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -208,6 +156,58 @@
                 ],
                 "keys": [
                     "9dbb184fbb830e032c827eb03b434e4e:78c362ab4614e73573a3958c2cadaba2"
+                ]
+            }
+        },
+        {
+            "titleId": "amzn1.dv.gti.03e11144-2aac-48cf-ac55-44f2a5d62e08",
+            "title": "Bangladesh tour of UAE 2025 - 2nd T20I - United Arab Emirates vs Bangladesh",
+            "name": "Bangladesh tour of UAE 2025 - 2nd T20I - United Arab Emirates vs Bangladesh",
+            "contentType": "event",
+            "startTime": "2025-05-19T19:55:01.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03e11144-2aac-48cf-ac55-44f2a5d62e08/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMD4IMXBG4BFJKH.ad01190728d146549fb8adaa4443f5c2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a114aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMD4IMXBG4BFJKH.89f474df8ee94228bc8c36ed1e0012cd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "5b2e4fab17c041f20867625491b13938:9ff81a4b4700b4cb7077e2049d97fbdf"
                 ]
             }
         }
