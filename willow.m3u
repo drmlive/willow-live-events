@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35b8354f-cd36-4647-bb90-1102d9eb4382/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 61st Match - Lucknow Super Giants vs Sunrisers Hyderabad
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed9fa22d0e0b71a208d813562f3f1035:49cc5dd088a60a3380c7d44e71b00e4c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tt3w1sult9/out/v1/615efe152372485eaf82224836d4d3f0/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6589145a-5e72-41c0-b194-0ceaf67adc00/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC CWC League Two 2023-27 - 2nd Match - Oman vs Canada
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -15,20 +7,4 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tt3w1sult9/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86dedbf144530876293bcf31fa97aa69:0d4e4e87a001d89b0a8454e031730edf
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92b480f8-17a6-40ab-a833-412197acd3a8/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - 30th Match - Islamabad United vs Karachi Kings
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dbb184fbb830e032c827eb03b434e4e:78c362ab4614e73573a3958c2cadaba2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1puvy4thmk/out/v1/da76932dfe8245098785be579b03da6a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.03e11144-2aac-48cf-ac55-44f2a5d62e08/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Bangladesh tour of UAE 2025 - 2nd T20I - United Arab Emirates vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b2e4fab17c041f20867625491b13938:9ff81a4b4700b4cb7077e2049d97fbdf
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1ywlvobzq/out/v1/d8c8d621f83e4a859735a9f757bb9380/cenc.mpd
 
