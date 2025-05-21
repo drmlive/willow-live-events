@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:21:48 AM 22-05-2025",
+    "last update time": "04:51:58 AM 22-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea",
@@ -9,7 +9,7 @@
             "name": "ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman",
             "contentType": "event",
             "startTime": "2025-05-21T19:25:01.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [
