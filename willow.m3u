@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26076eae-98c2-4548-8575-85a8b302bedc/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Indian Premier League 2025 - 63rd Match - Mumbai Indians vs Delhi Capitals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0552ccc901ba600c6ec9e877727dde09:9e91ce6556f7898d9c3c9b8127e2f401
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dbwb8x52jl/out/v1/b4aadd8404dd4b399230bf0a736c003a/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -23,14 +15,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69bb825b088c6a0af78effbfd8012127:4e908e459f111d5cd6fc280aebd28990
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rynapnw9su/out/v1/9f928a82c6f94ff995c39e928b3baaea/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9a1200b9-8afb-41c1-9c78-358676b4a54e/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Bangladesh tour of UAE 2025 - 3rd T20I - United Arab Emirates vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=938a4889ebab004e05d942de5dde528c:beec3675cab20450d10084f03fbdf88d
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6f63bcjl8j/out/v1/77acfa8f825f4521925e72b556ff0cdb/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab1d5dd7-fa64-40f5-9b0f-c7a9fe29a3de/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",West Indies Women tour of England 2025 - 1st T20I - England Women vs West Indies Women
 #KODIPROP:inputstream=inputstream.adaptive
