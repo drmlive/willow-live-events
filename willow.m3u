@@ -8,6 +8,14 @@
 #KODIPROP:inputstream.adaptive.license_key=0552ccc901ba600c6ec9e877727dde09:9e91ce6556f7898d9c3c9b8127e2f401
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dbwb8x52jl/out/v1/b4aadd8404dd4b399230bf0a736c003a/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -23,12 +31,4 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rynapnw9su/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=938a4889ebab004e05d942de5dde528c:beec3675cab20450d10084f03fbdf88d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6f63bcjl8j/out/v1/77acfa8f825f4521925e72b556ff0cdb/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd
 

@@ -1,16 +1,16 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:19:59 PM 21-05-2025",
+    "last update time": "07:50:30 PM 21-05-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.26076eae-98c2-4548-8575-85a8b302bedc",
             "title": "Indian Premier League 2025 - 63rd Match - Mumbai Indians vs Delhi Capitals",
             "name": "Indian Premier League 2025 - 63rd Match - Mumbai Indians vs Delhi Capitals",
             "contentType": "event",
-            "startTime": "2025-05-21T18:25:00.000Z",
+            "startTime": "2025-05-21T18:25:01.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.26076eae-98c2-4548-8575-85a8b302bedc/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -56,13 +56,65 @@
             }
         },
         {
+            "titleId": "amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875",
+            "title": "Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United",
+            "name": "Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United",
+            "contentType": "event",
+            "startTime": "2025-05-21T19:25:01.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.9fd2615764194945a563748f8dab80b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a69aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.28ffdc3cfecf4a20a81fee06754f4d66.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a14aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9"
+                ]
+            }
+        },
+        {
             "titleId": "amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea",
             "title": "ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman",
             "name": "ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman",
             "contentType": "event",
-            "startTime": "2025-05-21T19:25:00.000Z",
+            "startTime": "2025-05-21T19:25:01.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
@@ -156,58 +208,6 @@
                 ],
                 "keys": [
                     "938a4889ebab004e05d942de5dde528c:beec3675cab20450d10084f03fbdf88d"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875",
-            "title": "Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United",
-            "name": "Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United",
-            "contentType": "event",
-            "startTime": "2025-05-21T20:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.9fd2615764194945a563748f8dab80b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a69aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.28ffdc3cfecf4a20a81fee06754f4d66.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a14aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9"
                 ]
             }
         }
