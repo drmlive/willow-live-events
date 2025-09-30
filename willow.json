@@ -1,16 +1,16 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:27:18 PM 30-09-2025",
+    "last update time": "03:57:31 PM 30-09-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d7172db6-7e69-4a97-a9c0-f632505379af",
             "title": "India vs. Sri Lanka",
             "name": "Watch India take on Sri Lanka in the ICC Women's Cricket World Cup - 2025 India",
             "contentType": "event",
-            "startTime": "2025-09-30T15:00:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7172db6-7e69-4a97-a9c0-f632505379af/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-09-30T14:28:46.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7172db6-7e69-4a97-a9c0-f632505379af/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
