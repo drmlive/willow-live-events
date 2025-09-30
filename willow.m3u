@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7172db6-7e69-4a97-a9c0-f632505379af/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",India vs. Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dceecdb1cb3bc3b83b6c7e3925fa3e7f:b602257730c0bf864a8d985ae4c3422e
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r2pbwbae2w/out/v1/6b8c1e87ef274790acb0b12cf639d27d/cenc.mpd
+
