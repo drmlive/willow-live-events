@@ -8,3 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_key=dceecdb1cb3bc3b83b6c7e3925fa3e7f:b602257730c0bf864a8d985ae4c3422e
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r2pbwbae2w/out/v1/6b8c1e87ef274790acb0b12cf639d27d/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d65cedbc-1dbf-474c-bb04-366d958da9ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",Super60 Legends League 2025 - 15th Match - Rebel Warriors vs Morrisville Fighters
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f13f2414531622cc85845c509874f1c:6e6bbd4c600f8dcd159a4f8f30b5c88f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd
+
