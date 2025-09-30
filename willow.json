@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:28:35 PM 30-09-2025",
+    "last update time": "09:58:46 PM 30-09-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d7172db6-7e69-4a97-a9c0-f632505379af",
@@ -52,58 +52,6 @@
                 ],
                 "keys": [
                     "dceecdb1cb3bc3b83b6c7e3925fa3e7f:b602257730c0bf864a8d985ae4c3422e"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.d65cedbc-1dbf-474c-bb04-366d958da9ea",
-            "title": "Super60 Legends League 2025 - 15th Match - Rebel Warriors vs Morrisville Fighters",
-            "name": "Super60 Legends League 2025 - 15th Match - Rebel Warriors vs Morrisville Fighters",
-            "contentType": "event",
-            "startTime": "2025-09-30T21:15:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d65cedbc-1dbf-474c-bb04-366d958da9ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a17aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a150aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/peixisyt9v/out/v1/3017766b736e409fb27b478489c70af7/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "5f13f2414531622cc85845c509874f1c:6e6bbd4c600f8dcd159a4f8f30b5c88f"
                 ]
             }
         }
