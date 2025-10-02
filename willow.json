@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:05:15 PM 02-10-2025",
+    "last update time": "02:35:34 PM 02-10-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f",
@@ -60,9 +60,9 @@
             "title": "ICC Womens Cricket World Cup 2025 - 3rd Match - Bangladesh Women vs Pakistan Women",
             "name": "ICC Womens Cricket World Cup 2025 - 3rd Match - Bangladesh Women vs Pakistan Women",
             "contentType": "event",
-            "startTime": "2025-10-02T15:00:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "startTime": "2025-10-02T14:30:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
