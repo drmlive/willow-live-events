@@ -1,6 +1,59 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:34:00 AM 02-10-2025",
-    "matches": []
+    "last update time": "07:04:13 AM 02-10-2025",
+    "matches": [
+        {
+            "titleId": "amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f",
+            "title": "West Indies tour of India 2025 - 1st Test - India vs West Indies",
+            "name": "West Indies tour of India 2025 - 1st Test - India vs West Indies",
+            "contentType": "event",
+            "startTime": "2025-10-02T09:30:00.000Z",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "status": "upcoming",
+            "playback_data": {
+                "urls": [
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a114aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Akamai",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://a43aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Fastly",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    },
+                    {
+                        "cdn": "Cloudfront",
+                        "videoCodec": "H264",
+                        "frameRate": "Standard",
+                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd"
+                    }
+                ],
+                "keys": [
+                    "23d746c8864079a0fbe3e917614ce9a4:6c11aeb5174dfeb6acd1c92a58e012a6"
+                ]
+            }
+        }
+    ]
 }
