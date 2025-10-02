@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:36:17 PM 02-10-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b",
-            "title": "ICC Womens Cricket World Cup 2025 - 3rd Match - Bangladesh Women vs Pakistan Women",
-            "name": "ICC Womens Cricket World Cup 2025 - 3rd Match - Bangladesh Women vs Pakistan Women",
-            "contentType": "event",
-            "startTime": "2025-10-02T14:30:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a112aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a114aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "7a92ec98f2c385644c002de9d9caacac:0eac212ca30fb1762e2214f6e876bdf1"
-                ]
-            }
-        }
-    ]
+    "last update time": "10:06:29 PM 02-10-2025",
+    "matches": []
 }
