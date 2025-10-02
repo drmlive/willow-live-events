@@ -8,3 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_key=23d746c8864079a0fbe3e917614ce9a4:6c11aeb5174dfeb6acd1c92a58e012a6
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC Womens Cricket World Cup 2025 - 3rd Match - Bangladesh Women vs Pakistan Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a92ec98f2c385644c002de9d9caacac:0eac212ca30fb1762e2214f6e876bdf1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd
+
