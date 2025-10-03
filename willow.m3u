@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",West Indies tour of India 2025 - 1st Test - India vs West Indies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bbf8cf58abbad64fdea9fc0aa06de59:5c00be13818f106a8c99c54dfe73f38c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/j1z92ydajf/out/v1/524c4631a6cb42a8aac3417bfbaf8c6a/cenc.mpd
+
