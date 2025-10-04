@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:54 PM 04-10-2025",
+    "last update time": "03:57:06 PM 04-10-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f",
@@ -60,9 +60,9 @@
             "title": "Australia vs. Sri Lanka",
             "name": "Watch Australia take on Sri Lanka in the ICC Women's Cricket World Cup - 2025 India",
             "contentType": "event",
-            "startTime": "2025-10-04T14:30:00.000Z",
+            "startTime": "2025-10-04T14:30:04.000Z",
             "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2da1a7c-6df1-4070-8468-c8e4eaea64d0/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "upcoming",
+            "status": "live",
             "playback_data": {
                 "urls": [
                     {
