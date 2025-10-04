@@ -8,3 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_key=d5a76c50445a965838ca903865f049ff:63bebf395311bc53b57b63c2f8d85bd5
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clfvrt0up2/out/v1/1e7aca32764f44d0a1f9f1de8613e118/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2da1a7c-6df1-4070-8468-c8e4eaea64d0/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",ICC Womens Cricket World Cup 2025 - 5th Match - Sri Lanka Women vs Australia Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff392b05ec3db127da9f6b39dafd450d:b69e419a3ec8ce380a52a00a406e8bbb
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd
+
