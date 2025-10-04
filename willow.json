@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:27:16 PM 04-10-2025",
+    "last update time": "06:57:27 PM 04-10-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.329506c1-b753-4d48-b184-71ebdc59cb5f",
@@ -52,58 +52,6 @@
                 ],
                 "keys": [
                     "d5a76c50445a965838ca903865f049ff:63bebf395311bc53b57b63c2f8d85bd5"
-                ]
-            }
-        },
-        {
-            "titleId": "amzn1.dv.gti.b2da1a7c-6df1-4070-8468-c8e4eaea64d0",
-            "title": "Australia vs. Sri Lanka",
-            "name": "Watch Australia take on Sri Lanka in the ICC Women's Cricket World Cup - 2025 India",
-            "contentType": "event",
-            "startTime": "2025-10-04T14:30:04.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2da1a7c-6df1-4070-8468-c8e4eaea64d0/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a182aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a81aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6bovrrljgh/out/v1/3718171b94e34eafa6694c21d08bfd78/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "ff392b05ec3db127da9f6b39dafd450d:b69e419a3ec8ce380a52a00a406e8bbb"
                 ]
             }
         }
