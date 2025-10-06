@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.17bf8eaf-1fec-4484-8007-6c13164135b6/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow by Cricbuzz (Amazon)",New Zealand vs. South Africa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfed7de2929229e97f83480d221555b1:6b4ac47e402c9c9f40485919d552dc25
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eq3dfdku5g/out/v1/8271a0341c424b8f8409d241c93d97d9/cenc.mpd
+
